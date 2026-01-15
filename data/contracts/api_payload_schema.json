@@ -1,0 +1,88 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "aadhaar-pulse/api-payload-schema",
+  "title": "Aadhaar Pulse Dashboard Payload",
+  "description": "FINAL payload shape for ML outputs consumed by backend APIs and frontend dashboards. This is the SINGLE data contract — no additional fields allowed.",
+  
+  "_comments": {
+    "purpose": "Defines the strict output schema for all ML pipeline results",
+    "granularity": "District × Month aggregation only",
+    "constraints": [
+      "NO real Aadhaar/UIDAI data",
+      "NO individual-level records",
+      "NO black-box ML scores — all values must be explainable",
+      "Backend reads this as-is (read-only)",
+      "Frontend visualizes this without client-side computation"
+    ]
+  },
+
+  "type": "object",
+  "required": [
+    "district_id",
+    "month",
+    "migration_score",
+    "migration_category",
+    "peri_urban_label",
+    "digital_exclusion_score"
+  ],
+  "additionalProperties": false,
+
+  "properties": {
+    "district_id": {
+      "type": "string",
+      "pattern": "^[A-Z]{2}_[A-Z]{3}$",
+      "description": "Stable district identifier. Must match district_master.csv. Format: STATE_DISTRICT (e.g., RJ_JPR). Used as primary key for joins across ML, backend, and frontend."
+    },
+
+    "month": {
+      "type": "string",
+      "pattern": "^[0-9]{4}-(0[1-9]|1[0-2])$",
+      "description": "Temporal granularity. Format: YYYY-MM. No daily or sub-monthly data allowed. Example: 2024-07"
+    },
+
+    "migration_score": {
+      "type": "number",
+      "minimum": 0.0,
+      "maximum": 1.0,
+      "description": "Normalized migration intensity score (0.0–1.0). Derived from address update velocity signals. Higher = more migration activity. Explainable: based on rule-based aggregation, not black-box ML."
+    },
+
+    "migration_category": {
+      "type": "string",
+      "enum": ["low", "moderate", "high", "very_high"],
+      "description": "Human-readable migration classification. Derived from migration_score thresholds: low (<0.25), moderate (0.25–0.5), high (0.5–0.75), very_high (>0.75). Used for frontend color scales."
+    },
+
+    "peri_urban_label": {
+      "type": "string",
+      "enum": ["stable", "emerging", "rapid_growth", "saturated"],
+      "description": "Peri-urbanization classification. Derived from sustained address update growth patterns. stable = no change, emerging = early growth signals, rapid_growth = active transition zone, saturated = fully urbanized."
+    },
+
+    "digital_exclusion_score": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 100,
+      "description": "Digital exclusion risk index (0–100). Higher = greater exclusion risk. Derived from ratio of address updates to mobile/digital updates. Explainable: rule-based signal, not predictive AI."
+    }
+  },
+
+  "examples": [
+    {
+      "district_id": "RJ_JPR",
+      "month": "2024-07",
+      "migration_score": 0.72,
+      "migration_category": "high",
+      "peri_urban_label": "rapid_growth",
+      "digital_exclusion_score": 34
+    },
+    {
+      "district_id": "MH_NGP",
+      "month": "2024-07",
+      "migration_score": 0.15,
+      "migration_category": "low",
+      "peri_urban_label": "stable",
+      "digital_exclusion_score": 78
+    }
+  ]
+}

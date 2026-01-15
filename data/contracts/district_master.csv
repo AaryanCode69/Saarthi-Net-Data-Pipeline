@@ -1,0 +1,43 @@
+# ============================================================================
+# DISTRICT MASTER - Aadhaar Pulse (Synthetic Data Contract)
+# ============================================================================
+# Purpose: Stable district identifiers for ML pipelines, backend APIs, and
+#          frontend dashboards. This is the SINGLE SOURCE OF TRUTH for
+#          district-level aggregation.
+#
+# Schema:
+#   district_id   - Stable uppercase ID (STATE_CODE + "_" + DISTRICT_CODE)
+#                   Format: [A-Z]{2}_[A-Z]{3} (e.g., RJ_JPR)
+#   district_name - Human-readable district name (synthetic)
+#   state         - State name (synthetic, does not map to real states)
+#   region_type   - Enum: urban | rural | peri-urban
+#
+# Constraints:
+#   - NO real geographic data
+#   - NO Aadhaar/UIDAI references
+#   - IDs must remain stable across pipeline runs
+#   - Backend reads this file as-is (no transformations)
+#
+# Granularity: District level (no sub-district or individual data)
+# ============================================================================
+district_id,district_name,state,region_type
+RJ_JPR,Jaypur,Rajsthan,urban
+RJ_UDR,Udaypur,Rajsthan,peri-urban
+RJ_JDH,Jodhipur,Rajsthan,rural
+MH_MUM,Mumbay,Maharasht,urban
+MH_PNE,Punya,Maharasht,urban
+MH_NGP,Nagapur,Maharasht,peri-urban
+MH_NSD,Nashikd,Maharasht,rural
+KA_BNG,Banglore,Karnatak,urban
+KA_MYS,Mysura,Karnatak,peri-urban
+KA_HUB,Huballi,Karnatak,rural
+TN_CHN,Chenai,Tamilnad,urban
+TN_CBE,Coimbtur,Tamilnad,peri-urban
+TN_MDR,Madurai,Tamilnad,rural
+UP_LKO,Lucknau,Uttarprad,urban
+UP_KNP,Kanpoor,Uttarprad,peri-urban
+UP_VNS,Varansi,Uttarprad,rural
+GJ_AMD,Ahmdabad,Gujrat,urban
+GJ_SRT,Suraat,Gujrat,peri-urban
+GJ_RJK,Rajkoot,Gujrat,rural
+WB_KOL,Kolkata,Westbeng,urban
