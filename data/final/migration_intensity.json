@@ -1,0 +1,1442 @@
+[
+  {
+    "districtId": "GJ_AMD",
+    "month": "2024-01",
+    "migrationScore": 0.0017,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "GJ_AMD",
+    "month": "2024-02",
+    "migrationScore": 0.0154,
+    "migrationCategory": "High Inflow"
+  },
+  {
+    "districtId": "GJ_AMD",
+    "month": "2024-03",
+    "migrationScore": 0.0105,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "GJ_AMD",
+    "month": "2024-04",
+    "migrationScore": 0.0006,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "GJ_AMD",
+    "month": "2024-05",
+    "migrationScore": 0.0246,
+    "migrationCategory": "High Inflow"
+  },
+  {
+    "districtId": "GJ_AMD",
+    "month": "2024-06",
+    "migrationScore": 0.0202,
+    "migrationCategory": "High Inflow"
+  },
+  {
+    "districtId": "GJ_AMD",
+    "month": "2024-07",
+    "migrationScore": 0.0054,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "GJ_AMD",
+    "month": "2024-08",
+    "migrationScore": 0.0144,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "GJ_AMD",
+    "month": "2024-09",
+    "migrationScore": 0.0211,
+    "migrationCategory": "High Inflow"
+  },
+  {
+    "districtId": "GJ_AMD",
+    "month": "2024-10",
+    "migrationScore": -0.0023,
+    "migrationCategory": "Moderate Outflow"
+  },
+  {
+    "districtId": "GJ_AMD",
+    "month": "2024-11",
+    "migrationScore": 0.0039,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "GJ_AMD",
+    "month": "2024-12",
+    "migrationScore": 0.0036,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "GJ_RJK",
+    "month": "2024-01",
+    "migrationScore": -0.0144,
+    "migrationCategory": "Moderate Outflow"
+  },
+  {
+    "districtId": "GJ_RJK",
+    "month": "2024-02",
+    "migrationScore": -0.018,
+    "migrationCategory": "High Outflow"
+  },
+  {
+    "districtId": "GJ_RJK",
+    "month": "2024-03",
+    "migrationScore": -0.0192,
+    "migrationCategory": "High Outflow"
+  },
+  {
+    "districtId": "GJ_RJK",
+    "month": "2024-04",
+    "migrationScore": -0.0234,
+    "migrationCategory": "High Outflow"
+  },
+  {
+    "districtId": "GJ_RJK",
+    "month": "2024-05",
+    "migrationScore": -0.026,
+    "migrationCategory": "High Outflow"
+  },
+  {
+    "districtId": "GJ_RJK",
+    "month": "2024-06",
+    "migrationScore": -0.0155,
+    "migrationCategory": "High Outflow"
+  },
+  {
+    "districtId": "GJ_RJK",
+    "month": "2024-07",
+    "migrationScore": -0.0188,
+    "migrationCategory": "High Outflow"
+  },
+  {
+    "districtId": "GJ_RJK",
+    "month": "2024-08",
+    "migrationScore": -0.0247,
+    "migrationCategory": "High Outflow"
+  },
+  {
+    "districtId": "GJ_RJK",
+    "month": "2024-09",
+    "migrationScore": -0.018,
+    "migrationCategory": "High Outflow"
+  },
+  {
+    "districtId": "GJ_RJK",
+    "month": "2024-10",
+    "migrationScore": -0.0229,
+    "migrationCategory": "High Outflow"
+  },
+  {
+    "districtId": "GJ_RJK",
+    "month": "2024-11",
+    "migrationScore": -0.026,
+    "migrationCategory": "High Outflow"
+  },
+  {
+    "districtId": "GJ_RJK",
+    "month": "2024-12",
+    "migrationScore": -0.0215,
+    "migrationCategory": "High Outflow"
+  },
+  {
+    "districtId": "GJ_SRT",
+    "month": "2024-01",
+    "migrationScore": 0.0103,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "GJ_SRT",
+    "month": "2024-02",
+    "migrationScore": -0.0014,
+    "migrationCategory": "Moderate Outflow"
+  },
+  {
+    "districtId": "GJ_SRT",
+    "month": "2024-03",
+    "migrationScore": 0.0109,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "GJ_SRT",
+    "month": "2024-04",
+    "migrationScore": -0.0081,
+    "migrationCategory": "Moderate Outflow"
+  },
+  {
+    "districtId": "GJ_SRT",
+    "month": "2024-05",
+    "migrationScore": -0.0002,
+    "migrationCategory": "Moderate Outflow"
+  },
+  {
+    "districtId": "GJ_SRT",
+    "month": "2024-06",
+    "migrationScore": 0.0036,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "GJ_SRT",
+    "month": "2024-07",
+    "migrationScore": -0.0063,
+    "migrationCategory": "Moderate Outflow"
+  },
+  {
+    "districtId": "GJ_SRT",
+    "month": "2024-08",
+    "migrationScore": 0.0046,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "GJ_SRT",
+    "month": "2024-09",
+    "migrationScore": -0.0005,
+    "migrationCategory": "Moderate Outflow"
+  },
+  {
+    "districtId": "GJ_SRT",
+    "month": "2024-10",
+    "migrationScore": 0.0012,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "GJ_SRT",
+    "month": "2024-11",
+    "migrationScore": 0.0078,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "GJ_SRT",
+    "month": "2024-12",
+    "migrationScore": 0.0029,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "KA_BNG",
+    "month": "2024-01",
+    "migrationScore": 0.009,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "KA_BNG",
+    "month": "2024-02",
+    "migrationScore": 0.0056,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "KA_BNG",
+    "month": "2024-03",
+    "migrationScore": 0.0029,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "KA_BNG",
+    "month": "2024-04",
+    "migrationScore": 0.0149,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "KA_BNG",
+    "month": "2024-05",
+    "migrationScore": 0.0245,
+    "migrationCategory": "High Inflow"
+  },
+  {
+    "districtId": "KA_BNG",
+    "month": "2024-06",
+    "migrationScore": 0.0163,
+    "migrationCategory": "High Inflow"
+  },
+  {
+    "districtId": "KA_BNG",
+    "month": "2024-07",
+    "migrationScore": 0.0259,
+    "migrationCategory": "High Inflow"
+  },
+  {
+    "districtId": "KA_BNG",
+    "month": "2024-08",
+    "migrationScore": 0.0153,
+    "migrationCategory": "High Inflow"
+  },
+  {
+    "districtId": "KA_BNG",
+    "month": "2024-09",
+    "migrationScore": 0.0012,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "KA_BNG",
+    "month": "2024-10",
+    "migrationScore": 0.0119,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "KA_BNG",
+    "month": "2024-11",
+    "migrationScore": 0.0149,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "KA_BNG",
+    "month": "2024-12",
+    "migrationScore": 0.0006,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "KA_HUB",
+    "month": "2024-01",
+    "migrationScore": -0.0195,
+    "migrationCategory": "High Outflow"
+  },
+  {
+    "districtId": "KA_HUB",
+    "month": "2024-02",
+    "migrationScore": -0.0176,
+    "migrationCategory": "High Outflow"
+  },
+  {
+    "districtId": "KA_HUB",
+    "month": "2024-03",
+    "migrationScore": -0.0106,
+    "migrationCategory": "Moderate Outflow"
+  },
+  {
+    "districtId": "KA_HUB",
+    "month": "2024-04",
+    "migrationScore": -0.0233,
+    "migrationCategory": "High Outflow"
+  },
+  {
+    "districtId": "KA_HUB",
+    "month": "2024-05",
+    "migrationScore": -0.0231,
+    "migrationCategory": "High Outflow"
+  },
+  {
+    "districtId": "KA_HUB",
+    "month": "2024-06",
+    "migrationScore": -0.0242,
+    "migrationCategory": "High Outflow"
+  },
+  {
+    "districtId": "KA_HUB",
+    "month": "2024-07",
+    "migrationScore": -0.0222,
+    "migrationCategory": "High Outflow"
+  },
+  {
+    "districtId": "KA_HUB",
+    "month": "2024-08",
+    "migrationScore": -0.018,
+    "migrationCategory": "High Outflow"
+  },
+  {
+    "districtId": "KA_HUB",
+    "month": "2024-09",
+    "migrationScore": -0.0187,
+    "migrationCategory": "High Outflow"
+  },
+  {
+    "districtId": "KA_HUB",
+    "month": "2024-10",
+    "migrationScore": -0.0168,
+    "migrationCategory": "High Outflow"
+  },
+  {
+    "districtId": "KA_HUB",
+    "month": "2024-11",
+    "migrationScore": -0.0242,
+    "migrationCategory": "High Outflow"
+  },
+  {
+    "districtId": "KA_HUB",
+    "month": "2024-12",
+    "migrationScore": -0.0258,
+    "migrationCategory": "High Outflow"
+  },
+  {
+    "districtId": "KA_MYS",
+    "month": "2024-01",
+    "migrationScore": -0.0074,
+    "migrationCategory": "Moderate Outflow"
+  },
+  {
+    "districtId": "KA_MYS",
+    "month": "2024-02",
+    "migrationScore": 0.0091,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "KA_MYS",
+    "month": "2024-03",
+    "migrationScore": 0.0005,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "KA_MYS",
+    "month": "2024-04",
+    "migrationScore": -0.003,
+    "migrationCategory": "Moderate Outflow"
+  },
+  {
+    "districtId": "KA_MYS",
+    "month": "2024-05",
+    "migrationScore": -0.0074,
+    "migrationCategory": "Moderate Outflow"
+  },
+  {
+    "districtId": "KA_MYS",
+    "month": "2024-06",
+    "migrationScore": 0.0056,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "KA_MYS",
+    "month": "2024-07",
+    "migrationScore": 0.0094,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "KA_MYS",
+    "month": "2024-08",
+    "migrationScore": 0.0003,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "KA_MYS",
+    "month": "2024-09",
+    "migrationScore": 0.0013,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "KA_MYS",
+    "month": "2024-10",
+    "migrationScore": -0.0069,
+    "migrationCategory": "Moderate Outflow"
+  },
+  {
+    "districtId": "KA_MYS",
+    "month": "2024-11",
+    "migrationScore": 0.0168,
+    "migrationCategory": "High Inflow"
+  },
+  {
+    "districtId": "KA_MYS",
+    "month": "2024-12",
+    "migrationScore": 0.0213,
+    "migrationCategory": "High Inflow"
+  },
+  {
+    "districtId": "MH_MUM",
+    "month": "2024-01",
+    "migrationScore": 0.0004,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "MH_MUM",
+    "month": "2024-02",
+    "migrationScore": 0.009,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "MH_MUM",
+    "month": "2024-03",
+    "migrationScore": 0.0072,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "MH_MUM",
+    "month": "2024-04",
+    "migrationScore": 0.0171,
+    "migrationCategory": "High Inflow"
+  },
+  {
+    "districtId": "MH_MUM",
+    "month": "2024-05",
+    "migrationScore": 0.024,
+    "migrationCategory": "High Inflow"
+  },
+  {
+    "districtId": "MH_MUM",
+    "month": "2024-06",
+    "migrationScore": 0.0192,
+    "migrationCategory": "High Inflow"
+  },
+  {
+    "districtId": "MH_MUM",
+    "month": "2024-07",
+    "migrationScore": 0.0121,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "MH_MUM",
+    "month": "2024-08",
+    "migrationScore": 0.013,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "MH_MUM",
+    "month": "2024-09",
+    "migrationScore": 0.0123,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "MH_MUM",
+    "month": "2024-10",
+    "migrationScore": 0.0021,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "MH_MUM",
+    "month": "2024-11",
+    "migrationScore": 0.0166,
+    "migrationCategory": "High Inflow"
+  },
+  {
+    "districtId": "MH_MUM",
+    "month": "2024-12",
+    "migrationScore": 0.0071,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "MH_NGP",
+    "month": "2024-01",
+    "migrationScore": 0.0028,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "MH_NGP",
+    "month": "2024-02",
+    "migrationScore": -0.0071,
+    "migrationCategory": "Moderate Outflow"
+  },
+  {
+    "districtId": "MH_NGP",
+    "month": "2024-03",
+    "migrationScore": 0.0011,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "MH_NGP",
+    "month": "2024-04",
+    "migrationScore": 0.0027,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "MH_NGP",
+    "month": "2024-05",
+    "migrationScore": 0.0024,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "MH_NGP",
+    "month": "2024-06",
+    "migrationScore": -0.0076,
+    "migrationCategory": "Moderate Outflow"
+  },
+  {
+    "districtId": "MH_NGP",
+    "month": "2024-07",
+    "migrationScore": 0.0061,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "MH_NGP",
+    "month": "2024-08",
+    "migrationScore": 0.0096,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "MH_NGP",
+    "month": "2024-09",
+    "migrationScore": 0.0106,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "MH_NGP",
+    "month": "2024-10",
+    "migrationScore": 0.021,
+    "migrationCategory": "High Inflow"
+  },
+  {
+    "districtId": "MH_NGP",
+    "month": "2024-11",
+    "migrationScore": 0.0148,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "MH_NGP",
+    "month": "2024-12",
+    "migrationScore": 0.0213,
+    "migrationCategory": "High Inflow"
+  },
+  {
+    "districtId": "MH_NSD",
+    "month": "2024-01",
+    "migrationScore": -0.0145,
+    "migrationCategory": "Moderate Outflow"
+  },
+  {
+    "districtId": "MH_NSD",
+    "month": "2024-02",
+    "migrationScore": -0.0141,
+    "migrationCategory": "Moderate Outflow"
+  },
+  {
+    "districtId": "MH_NSD",
+    "month": "2024-03",
+    "migrationScore": -0.0154,
+    "migrationCategory": "High Outflow"
+  },
+  {
+    "districtId": "MH_NSD",
+    "month": "2024-04",
+    "migrationScore": -0.0206,
+    "migrationCategory": "High Outflow"
+  },
+  {
+    "districtId": "MH_NSD",
+    "month": "2024-05",
+    "migrationScore": -0.0271,
+    "migrationCategory": "High Outflow"
+  },
+  {
+    "districtId": "MH_NSD",
+    "month": "2024-06",
+    "migrationScore": -0.0154,
+    "migrationCategory": "High Outflow"
+  },
+  {
+    "districtId": "MH_NSD",
+    "month": "2024-07",
+    "migrationScore": -0.0211,
+    "migrationCategory": "High Outflow"
+  },
+  {
+    "districtId": "MH_NSD",
+    "month": "2024-08",
+    "migrationScore": -0.0202,
+    "migrationCategory": "High Outflow"
+  },
+  {
+    "districtId": "MH_NSD",
+    "month": "2024-09",
+    "migrationScore": -0.0185,
+    "migrationCategory": "High Outflow"
+  },
+  {
+    "districtId": "MH_NSD",
+    "month": "2024-10",
+    "migrationScore": -0.017,
+    "migrationCategory": "High Outflow"
+  },
+  {
+    "districtId": "MH_NSD",
+    "month": "2024-11",
+    "migrationScore": -0.0186,
+    "migrationCategory": "High Outflow"
+  },
+  {
+    "districtId": "MH_NSD",
+    "month": "2024-12",
+    "migrationScore": -0.0231,
+    "migrationCategory": "High Outflow"
+  },
+  {
+    "districtId": "MH_PNE",
+    "month": "2024-01",
+    "migrationScore": 0.0097,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "MH_PNE",
+    "month": "2024-02",
+    "migrationScore": 0.0158,
+    "migrationCategory": "High Inflow"
+  },
+  {
+    "districtId": "MH_PNE",
+    "month": "2024-03",
+    "migrationScore": 0.007,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "MH_PNE",
+    "month": "2024-04",
+    "migrationScore": 0.0252,
+    "migrationCategory": "High Inflow"
+  },
+  {
+    "districtId": "MH_PNE",
+    "month": "2024-05",
+    "migrationScore": 0.0055,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "MH_PNE",
+    "month": "2024-06",
+    "migrationScore": 0.0256,
+    "migrationCategory": "High Inflow"
+  },
+  {
+    "districtId": "MH_PNE",
+    "month": "2024-07",
+    "migrationScore": 0.0013,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "MH_PNE",
+    "month": "2024-08",
+    "migrationScore": 0.0198,
+    "migrationCategory": "High Inflow"
+  },
+  {
+    "districtId": "MH_PNE",
+    "month": "2024-09",
+    "migrationScore": 0.017,
+    "migrationCategory": "High Inflow"
+  },
+  {
+    "districtId": "MH_PNE",
+    "month": "2024-10",
+    "migrationScore": 0.021,
+    "migrationCategory": "High Inflow"
+  },
+  {
+    "districtId": "MH_PNE",
+    "month": "2024-11",
+    "migrationScore": 0.0142,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "MH_PNE",
+    "month": "2024-12",
+    "migrationScore": 0.0049,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "RJ_JDH",
+    "month": "2024-01",
+    "migrationScore": -0.0153,
+    "migrationCategory": "High Outflow"
+  },
+  {
+    "districtId": "RJ_JDH",
+    "month": "2024-02",
+    "migrationScore": -0.0188,
+    "migrationCategory": "High Outflow"
+  },
+  {
+    "districtId": "RJ_JDH",
+    "month": "2024-03",
+    "migrationScore": -0.0095,
+    "migrationCategory": "Moderate Outflow"
+  },
+  {
+    "districtId": "RJ_JDH",
+    "month": "2024-04",
+    "migrationScore": -0.0163,
+    "migrationCategory": "High Outflow"
+  },
+  {
+    "districtId": "RJ_JDH",
+    "month": "2024-05",
+    "migrationScore": -0.0235,
+    "migrationCategory": "High Outflow"
+  },
+  {
+    "districtId": "RJ_JDH",
+    "month": "2024-06",
+    "migrationScore": -0.0255,
+    "migrationCategory": "High Outflow"
+  },
+  {
+    "districtId": "RJ_JDH",
+    "month": "2024-07",
+    "migrationScore": -0.0152,
+    "migrationCategory": "High Outflow"
+  },
+  {
+    "districtId": "RJ_JDH",
+    "month": "2024-08",
+    "migrationScore": -0.0238,
+    "migrationCategory": "High Outflow"
+  },
+  {
+    "districtId": "RJ_JDH",
+    "month": "2024-09",
+    "migrationScore": -0.02,
+    "migrationCategory": "High Outflow"
+  },
+  {
+    "districtId": "RJ_JDH",
+    "month": "2024-10",
+    "migrationScore": -0.0176,
+    "migrationCategory": "High Outflow"
+  },
+  {
+    "districtId": "RJ_JDH",
+    "month": "2024-11",
+    "migrationScore": -0.0235,
+    "migrationCategory": "High Outflow"
+  },
+  {
+    "districtId": "RJ_JDH",
+    "month": "2024-12",
+    "migrationScore": -0.0234,
+    "migrationCategory": "High Outflow"
+  },
+  {
+    "districtId": "RJ_JPR",
+    "month": "2024-01",
+    "migrationScore": 0.0164,
+    "migrationCategory": "High Inflow"
+  },
+  {
+    "districtId": "RJ_JPR",
+    "month": "2024-02",
+    "migrationScore": 0.011,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "RJ_JPR",
+    "month": "2024-03",
+    "migrationScore": 0.0032,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "RJ_JPR",
+    "month": "2024-04",
+    "migrationScore": 0.016,
+    "migrationCategory": "High Inflow"
+  },
+  {
+    "districtId": "RJ_JPR",
+    "month": "2024-05",
+    "migrationScore": -0.0002,
+    "migrationCategory": "Moderate Outflow"
+  },
+  {
+    "districtId": "RJ_JPR",
+    "month": "2024-06",
+    "migrationScore": 0.0016,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "RJ_JPR",
+    "month": "2024-07",
+    "migrationScore": 0.0161,
+    "migrationCategory": "High Inflow"
+  },
+  {
+    "districtId": "RJ_JPR",
+    "month": "2024-08",
+    "migrationScore": 0.0178,
+    "migrationCategory": "High Inflow"
+  },
+  {
+    "districtId": "RJ_JPR",
+    "month": "2024-09",
+    "migrationScore": 0.0189,
+    "migrationCategory": "High Inflow"
+  },
+  {
+    "districtId": "RJ_JPR",
+    "month": "2024-10",
+    "migrationScore": 0.0182,
+    "migrationCategory": "High Inflow"
+  },
+  {
+    "districtId": "RJ_JPR",
+    "month": "2024-11",
+    "migrationScore": 0.0077,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "RJ_JPR",
+    "month": "2024-12",
+    "migrationScore": 0.0113,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "RJ_UDR",
+    "month": "2024-01",
+    "migrationScore": 0.0122,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "RJ_UDR",
+    "month": "2024-02",
+    "migrationScore": 0.0091,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "RJ_UDR",
+    "month": "2024-03",
+    "migrationScore": 0.0061,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "RJ_UDR",
+    "month": "2024-04",
+    "migrationScore": 0.009,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "RJ_UDR",
+    "month": "2024-05",
+    "migrationScore": 0.0076,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "RJ_UDR",
+    "month": "2024-06",
+    "migrationScore": -0.0069,
+    "migrationCategory": "Moderate Outflow"
+  },
+  {
+    "districtId": "RJ_UDR",
+    "month": "2024-07",
+    "migrationScore": -0.0084,
+    "migrationCategory": "Moderate Outflow"
+  },
+  {
+    "districtId": "RJ_UDR",
+    "month": "2024-08",
+    "migrationScore": 0.0013,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "RJ_UDR",
+    "month": "2024-09",
+    "migrationScore": 0.0093,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "RJ_UDR",
+    "month": "2024-10",
+    "migrationScore": 0.0105,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "RJ_UDR",
+    "month": "2024-11",
+    "migrationScore": 0.0193,
+    "migrationCategory": "High Inflow"
+  },
+  {
+    "districtId": "RJ_UDR",
+    "month": "2024-12",
+    "migrationScore": 0.0205,
+    "migrationCategory": "High Inflow"
+  },
+  {
+    "districtId": "TN_CBE",
+    "month": "2024-01",
+    "migrationScore": -0.0011,
+    "migrationCategory": "Moderate Outflow"
+  },
+  {
+    "districtId": "TN_CBE",
+    "month": "2024-02",
+    "migrationScore": 0.0041,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "TN_CBE",
+    "month": "2024-03",
+    "migrationScore": 0.0017,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "TN_CBE",
+    "month": "2024-04",
+    "migrationScore": 0.007,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "TN_CBE",
+    "month": "2024-05",
+    "migrationScore": 0.0028,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "TN_CBE",
+    "month": "2024-06",
+    "migrationScore": 0.0013,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "TN_CBE",
+    "month": "2024-07",
+    "migrationScore": 0.0161,
+    "migrationCategory": "High Inflow"
+  },
+  {
+    "districtId": "TN_CBE",
+    "month": "2024-08",
+    "migrationScore": 0.001,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "TN_CBE",
+    "month": "2024-09",
+    "migrationScore": 0.0017,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "TN_CBE",
+    "month": "2024-10",
+    "migrationScore": -0.0038,
+    "migrationCategory": "Moderate Outflow"
+  },
+  {
+    "districtId": "TN_CBE",
+    "month": "2024-11",
+    "migrationScore": -0.0037,
+    "migrationCategory": "Moderate Outflow"
+  },
+  {
+    "districtId": "TN_CBE",
+    "month": "2024-12",
+    "migrationScore": -0.0016,
+    "migrationCategory": "Moderate Outflow"
+  },
+  {
+    "districtId": "TN_CHN",
+    "month": "2024-01",
+    "migrationScore": 0.0036,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "TN_CHN",
+    "month": "2024-02",
+    "migrationScore": 0.0141,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "TN_CHN",
+    "month": "2024-03",
+    "migrationScore": 0.0117,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "TN_CHN",
+    "month": "2024-04",
+    "migrationScore": 0.0168,
+    "migrationCategory": "High Inflow"
+  },
+  {
+    "districtId": "TN_CHN",
+    "month": "2024-05",
+    "migrationScore": 0.0249,
+    "migrationCategory": "High Inflow"
+  },
+  {
+    "districtId": "TN_CHN",
+    "month": "2024-06",
+    "migrationScore": 0.0028,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "TN_CHN",
+    "month": "2024-07",
+    "migrationScore": 0.0073,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "TN_CHN",
+    "month": "2024-08",
+    "migrationScore": 0.008,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "TN_CHN",
+    "month": "2024-09",
+    "migrationScore": -0.0024,
+    "migrationCategory": "Moderate Outflow"
+  },
+  {
+    "districtId": "TN_CHN",
+    "month": "2024-10",
+    "migrationScore": 0.0125,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "TN_CHN",
+    "month": "2024-11",
+    "migrationScore": 0.0053,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "TN_CHN",
+    "month": "2024-12",
+    "migrationScore": 0.0125,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "TN_MDR",
+    "month": "2024-01",
+    "migrationScore": -0.0129,
+    "migrationCategory": "Moderate Outflow"
+  },
+  {
+    "districtId": "TN_MDR",
+    "month": "2024-02",
+    "migrationScore": -0.0201,
+    "migrationCategory": "High Outflow"
+  },
+  {
+    "districtId": "TN_MDR",
+    "month": "2024-03",
+    "migrationScore": -0.011,
+    "migrationCategory": "Moderate Outflow"
+  },
+  {
+    "districtId": "TN_MDR",
+    "month": "2024-04",
+    "migrationScore": -0.0212,
+    "migrationCategory": "High Outflow"
+  },
+  {
+    "districtId": "TN_MDR",
+    "month": "2024-05",
+    "migrationScore": -0.0238,
+    "migrationCategory": "High Outflow"
+  },
+  {
+    "districtId": "TN_MDR",
+    "month": "2024-06",
+    "migrationScore": -0.0213,
+    "migrationCategory": "High Outflow"
+  },
+  {
+    "districtId": "TN_MDR",
+    "month": "2024-07",
+    "migrationScore": -0.0198,
+    "migrationCategory": "High Outflow"
+  },
+  {
+    "districtId": "TN_MDR",
+    "month": "2024-08",
+    "migrationScore": -0.0182,
+    "migrationCategory": "High Outflow"
+  },
+  {
+    "districtId": "TN_MDR",
+    "month": "2024-09",
+    "migrationScore": -0.017,
+    "migrationCategory": "High Outflow"
+  },
+  {
+    "districtId": "TN_MDR",
+    "month": "2024-10",
+    "migrationScore": -0.0174,
+    "migrationCategory": "High Outflow"
+  },
+  {
+    "districtId": "TN_MDR",
+    "month": "2024-11",
+    "migrationScore": -0.0162,
+    "migrationCategory": "High Outflow"
+  },
+  {
+    "districtId": "TN_MDR",
+    "month": "2024-12",
+    "migrationScore": -0.0172,
+    "migrationCategory": "High Outflow"
+  },
+  {
+    "districtId": "UP_KNP",
+    "month": "2024-01",
+    "migrationScore": 0.0061,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "UP_KNP",
+    "month": "2024-02",
+    "migrationScore": -0.0033,
+    "migrationCategory": "Moderate Outflow"
+  },
+  {
+    "districtId": "UP_KNP",
+    "month": "2024-03",
+    "migrationScore": -0.0039,
+    "migrationCategory": "Moderate Outflow"
+  },
+  {
+    "districtId": "UP_KNP",
+    "month": "2024-04",
+    "migrationScore": 0.0011,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "UP_KNP",
+    "month": "2024-05",
+    "migrationScore": 0.0075,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "UP_KNP",
+    "month": "2024-06",
+    "migrationScore": 0.0112,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "UP_KNP",
+    "month": "2024-07",
+    "migrationScore": -0.0011,
+    "migrationCategory": "Moderate Outflow"
+  },
+  {
+    "districtId": "UP_KNP",
+    "month": "2024-08",
+    "migrationScore": 0.0,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "UP_KNP",
+    "month": "2024-09",
+    "migrationScore": -0.0036,
+    "migrationCategory": "Moderate Outflow"
+  },
+  {
+    "districtId": "UP_KNP",
+    "month": "2024-10",
+    "migrationScore": 0.0136,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "UP_KNP",
+    "month": "2024-11",
+    "migrationScore": -0.0018,
+    "migrationCategory": "Moderate Outflow"
+  },
+  {
+    "districtId": "UP_KNP",
+    "month": "2024-12",
+    "migrationScore": 0.0072,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "UP_LKO",
+    "month": "2024-01",
+    "migrationScore": 0.0113,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "UP_LKO",
+    "month": "2024-02",
+    "migrationScore": 0.0139,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "UP_LKO",
+    "month": "2024-03",
+    "migrationScore": 0.0063,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "UP_LKO",
+    "month": "2024-04",
+    "migrationScore": 0.0113,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "UP_LKO",
+    "month": "2024-05",
+    "migrationScore": 0.0025,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "UP_LKO",
+    "month": "2024-06",
+    "migrationScore": 0.011,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "UP_LKO",
+    "month": "2024-07",
+    "migrationScore": 0.0237,
+    "migrationCategory": "High Inflow"
+  },
+  {
+    "districtId": "UP_LKO",
+    "month": "2024-08",
+    "migrationScore": 0.0025,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "UP_LKO",
+    "month": "2024-09",
+    "migrationScore": 0.0178,
+    "migrationCategory": "High Inflow"
+  },
+  {
+    "districtId": "UP_LKO",
+    "month": "2024-10",
+    "migrationScore": 0.0031,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "UP_LKO",
+    "month": "2024-11",
+    "migrationScore": 0.009,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "UP_LKO",
+    "month": "2024-12",
+    "migrationScore": 0.0098,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "UP_VNS",
+    "month": "2024-01",
+    "migrationScore": -0.0106,
+    "migrationCategory": "Moderate Outflow"
+  },
+  {
+    "districtId": "UP_VNS",
+    "month": "2024-02",
+    "migrationScore": -0.0229,
+    "migrationCategory": "High Outflow"
+  },
+  {
+    "districtId": "UP_VNS",
+    "month": "2024-03",
+    "migrationScore": -0.0203,
+    "migrationCategory": "High Outflow"
+  },
+  {
+    "districtId": "UP_VNS",
+    "month": "2024-04",
+    "migrationScore": -0.016,
+    "migrationCategory": "High Outflow"
+  },
+  {
+    "districtId": "UP_VNS",
+    "month": "2024-05",
+    "migrationScore": -0.0186,
+    "migrationCategory": "High Outflow"
+  },
+  {
+    "districtId": "UP_VNS",
+    "month": "2024-06",
+    "migrationScore": -0.0204,
+    "migrationCategory": "High Outflow"
+  },
+  {
+    "districtId": "UP_VNS",
+    "month": "2024-07",
+    "migrationScore": -0.023,
+    "migrationCategory": "High Outflow"
+  },
+  {
+    "districtId": "UP_VNS",
+    "month": "2024-08",
+    "migrationScore": -0.0161,
+    "migrationCategory": "High Outflow"
+  },
+  {
+    "districtId": "UP_VNS",
+    "month": "2024-09",
+    "migrationScore": -0.0231,
+    "migrationCategory": "High Outflow"
+  },
+  {
+    "districtId": "UP_VNS",
+    "month": "2024-10",
+    "migrationScore": -0.0222,
+    "migrationCategory": "High Outflow"
+  },
+  {
+    "districtId": "UP_VNS",
+    "month": "2024-11",
+    "migrationScore": -0.0221,
+    "migrationCategory": "High Outflow"
+  },
+  {
+    "districtId": "UP_VNS",
+    "month": "2024-12",
+    "migrationScore": -0.0194,
+    "migrationCategory": "High Outflow"
+  },
+  {
+    "districtId": "WB_KOL",
+    "month": "2024-01",
+    "migrationScore": 0.0116,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "WB_KOL",
+    "month": "2024-02",
+    "migrationScore": 0.0169,
+    "migrationCategory": "High Inflow"
+  },
+  {
+    "districtId": "WB_KOL",
+    "month": "2024-03",
+    "migrationScore": 0.0216,
+    "migrationCategory": "High Inflow"
+  },
+  {
+    "districtId": "WB_KOL",
+    "month": "2024-04",
+    "migrationScore": 0.0109,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "WB_KOL",
+    "month": "2024-05",
+    "migrationScore": 0.0238,
+    "migrationCategory": "High Inflow"
+  },
+  {
+    "districtId": "WB_KOL",
+    "month": "2024-06",
+    "migrationScore": 0.0177,
+    "migrationCategory": "High Inflow"
+  },
+  {
+    "districtId": "WB_KOL",
+    "month": "2024-07",
+    "migrationScore": 0.013,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "WB_KOL",
+    "month": "2024-08",
+    "migrationScore": 0.0131,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "WB_KOL",
+    "month": "2024-09",
+    "migrationScore": 0.0098,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "WB_KOL",
+    "month": "2024-10",
+    "migrationScore": 0.0114,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "WB_KOL",
+    "month": "2024-11",
+    "migrationScore": 0.0064,
+    "migrationCategory": "Moderate Inflow"
+  },
+  {
+    "districtId": "WB_KOL",
+    "month": "2024-12",
+    "migrationScore": 0.0097,
+    "migrationCategory": "Moderate Inflow"
+  }
+]
