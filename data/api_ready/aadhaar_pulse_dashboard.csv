@@ -1,0 +1,241 @@
+district_id,month,migration_score,migration_category,peri_urban_label,digital_exclusion_score,risk_level
+GJ_AMD,2024-01,0.0017,Moderate Inflow,Stable Urban,25,Low
+GJ_AMD,2024-02,0.0154,High Inflow,Declining,28,Low
+GJ_AMD,2024-03,0.0105,Moderate Inflow,Declining,31,Low
+GJ_AMD,2024-04,0.0006,Moderate Inflow,Declining,25,Low
+GJ_AMD,2024-05,0.0246,High Inflow,Declining,24,Low
+GJ_AMD,2024-06,0.0202,High Inflow,Declining,25,Low
+GJ_AMD,2024-07,0.0054,Moderate Inflow,Declining,31,Low
+GJ_AMD,2024-08,0.0144,Moderate Inflow,Declining,24,Low
+GJ_AMD,2024-09,0.0211,High Inflow,Declining,30,Low
+GJ_AMD,2024-10,-0.0023,Moderate Outflow,Declining,25,Low
+GJ_AMD,2024-11,0.0039,Moderate Inflow,Declining,24,Low
+GJ_AMD,2024-12,0.0036,Moderate Inflow,Rural Stable,32,Low
+GJ_RJK,2024-01,-0.0144,Moderate Outflow,Stable Urban,44,Medium
+GJ_RJK,2024-02,-0.018,High Outflow,Rural Stable,49,Medium
+GJ_RJK,2024-03,-0.0192,High Outflow,Declining,52,Medium
+GJ_RJK,2024-04,-0.0234,High Outflow,Declining,49,Medium
+GJ_RJK,2024-05,-0.026,High Outflow,Rural Stable,52,Medium
+GJ_RJK,2024-06,-0.0155,High Outflow,Declining,44,Medium
+GJ_RJK,2024-07,-0.0188,High Outflow,Declining,46,Medium
+GJ_RJK,2024-08,-0.0247,High Outflow,Declining,46,Medium
+GJ_RJK,2024-09,-0.018,High Outflow,Declining,51,Medium
+GJ_RJK,2024-10,-0.0229,High Outflow,Declining,53,Medium
+GJ_RJK,2024-11,-0.026,High Outflow,Stable Urban,49,Medium
+GJ_RJK,2024-12,-0.0215,High Outflow,Declining,50,Medium
+GJ_SRT,2024-01,0.0103,Moderate Inflow,Stable Urban,39,Low
+GJ_SRT,2024-02,-0.0014,Moderate Outflow,Declining,42,Medium
+GJ_SRT,2024-03,0.0109,Moderate Inflow,Declining,39,Low
+GJ_SRT,2024-04,-0.0081,Moderate Outflow,Declining,40,Medium
+GJ_SRT,2024-05,-0.0002,Moderate Outflow,Declining,38,Low
+GJ_SRT,2024-06,0.0036,Moderate Inflow,Stable Urban,35,Low
+GJ_SRT,2024-07,-0.0063,Moderate Outflow,Declining,35,Low
+GJ_SRT,2024-08,0.0046,Moderate Inflow,Declining,35,Low
+GJ_SRT,2024-09,-0.0005,Moderate Outflow,Declining,34,Low
+GJ_SRT,2024-10,0.0012,Moderate Inflow,Rural Stable,38,Low
+GJ_SRT,2024-11,0.0078,Moderate Inflow,Declining,37,Low
+GJ_SRT,2024-12,0.0029,Moderate Inflow,Declining,35,Low
+KA_BNG,2024-01,0.009,Moderate Inflow,Stable Urban,29,Low
+KA_BNG,2024-02,0.0056,Moderate Inflow,Rural Stable,28,Low
+KA_BNG,2024-03,0.0029,Moderate Inflow,Declining,33,Low
+KA_BNG,2024-04,0.0149,Moderate Inflow,Declining,29,Low
+KA_BNG,2024-05,0.0245,High Inflow,Declining,27,Low
+KA_BNG,2024-06,0.0163,High Inflow,Declining,26,Low
+KA_BNG,2024-07,0.0259,High Inflow,Declining,32,Low
+KA_BNG,2024-08,0.0153,High Inflow,Declining,25,Low
+KA_BNG,2024-09,0.0012,Moderate Inflow,Declining,25,Low
+KA_BNG,2024-10,0.0119,Moderate Inflow,Declining,29,Low
+KA_BNG,2024-11,0.0149,Moderate Inflow,Declining,24,Low
+KA_BNG,2024-12,0.0006,Moderate Inflow,Declining,26,Low
+KA_HUB,2024-01,-0.0195,High Outflow,Stable Urban,49,Medium
+KA_HUB,2024-02,-0.0176,High Outflow,Declining,46,Medium
+KA_HUB,2024-03,-0.0106,Moderate Outflow,Declining,45,Medium
+KA_HUB,2024-04,-0.0233,High Outflow,Declining,47,Medium
+KA_HUB,2024-05,-0.0231,High Outflow,Declining,48,Medium
+KA_HUB,2024-06,-0.0242,High Outflow,Declining,52,Medium
+KA_HUB,2024-07,-0.0222,High Outflow,Rural Stable,45,Medium
+KA_HUB,2024-08,-0.018,High Outflow,Declining,47,Medium
+KA_HUB,2024-09,-0.0187,High Outflow,Stable Urban,48,Medium
+KA_HUB,2024-10,-0.0168,High Outflow,Declining,50,Medium
+KA_HUB,2024-11,-0.0242,High Outflow,Declining,44,Medium
+KA_HUB,2024-12,-0.0258,High Outflow,Declining,53,Medium
+KA_MYS,2024-01,-0.0074,Moderate Outflow,Stable Urban,35,Low
+KA_MYS,2024-02,0.0091,Moderate Inflow,Declining,37,Low
+KA_MYS,2024-03,0.0005,Moderate Inflow,Declining,41,Medium
+KA_MYS,2024-04,-0.003,Moderate Outflow,Stable Urban,36,Low
+KA_MYS,2024-05,-0.0074,Moderate Outflow,Declining,41,Medium
+KA_MYS,2024-06,0.0056,Moderate Inflow,Declining,36,Low
+KA_MYS,2024-07,0.0094,Moderate Inflow,Stable Urban,37,Low
+KA_MYS,2024-08,0.0003,Moderate Inflow,Declining,37,Low
+KA_MYS,2024-09,0.0013,Moderate Inflow,Stable Urban,36,Low
+KA_MYS,2024-10,-0.0069,Moderate Outflow,Declining,40,Medium
+KA_MYS,2024-11,0.0168,High Inflow,Declining,34,Low
+KA_MYS,2024-12,0.0213,High Inflow,Stable Urban,34,Low
+MH_MUM,2024-01,0.0004,Moderate Inflow,Stable Urban,32,Low
+MH_MUM,2024-02,0.009,Moderate Inflow,Declining,25,Low
+MH_MUM,2024-03,0.0072,Moderate Inflow,Declining,32,Low
+MH_MUM,2024-04,0.0171,High Inflow,Declining,30,Low
+MH_MUM,2024-05,0.024,High Inflow,Declining,27,Low
+MH_MUM,2024-06,0.0192,High Inflow,Declining,32,Low
+MH_MUM,2024-07,0.0121,Moderate Inflow,Declining,29,Low
+MH_MUM,2024-08,0.013,Moderate Inflow,Stable Urban,30,Low
+MH_MUM,2024-09,0.0123,Moderate Inflow,Stable Urban,24,Low
+MH_MUM,2024-10,0.0021,Moderate Inflow,Declining,30,Low
+MH_MUM,2024-11,0.0166,High Inflow,Declining,23,Low
+MH_MUM,2024-12,0.0071,Moderate Inflow,Declining,25,Low
+MH_NGP,2024-01,0.0028,Moderate Inflow,Stable Urban,37,Low
+MH_NGP,2024-02,-0.0071,Moderate Outflow,Declining,37,Low
+MH_NGP,2024-03,0.0011,Moderate Inflow,Declining,43,Medium
+MH_NGP,2024-04,0.0027,Moderate Inflow,Declining,35,Low
+MH_NGP,2024-05,0.0024,Moderate Inflow,Stable Urban,41,Medium
+MH_NGP,2024-06,-0.0076,Moderate Outflow,Declining,36,Low
+MH_NGP,2024-07,0.0061,Moderate Inflow,Declining,38,Low
+MH_NGP,2024-08,0.0096,Moderate Inflow,Declining,40,Medium
+MH_NGP,2024-09,0.0106,Moderate Inflow,Stable Urban,43,Medium
+MH_NGP,2024-10,0.021,High Inflow,Peri-Urban Growth,34,Low
+MH_NGP,2024-11,0.0148,Moderate Inflow,Declining,37,Low
+MH_NGP,2024-12,0.0213,High Inflow,Declining,40,Medium
+MH_NSD,2024-01,-0.0145,Moderate Outflow,Stable Urban,46,Medium
+MH_NSD,2024-02,-0.0141,Moderate Outflow,Declining,47,Medium
+MH_NSD,2024-03,-0.0154,High Outflow,Declining,51,Medium
+MH_NSD,2024-04,-0.0206,High Outflow,Stable Urban,51,Medium
+MH_NSD,2024-05,-0.0271,High Outflow,Declining,53,Medium
+MH_NSD,2024-06,-0.0154,High Outflow,Declining,50,Medium
+MH_NSD,2024-07,-0.0211,High Outflow,Declining,52,Medium
+MH_NSD,2024-08,-0.0202,High Outflow,Declining,48,Medium
+MH_NSD,2024-09,-0.0185,High Outflow,Declining,50,Medium
+MH_NSD,2024-10,-0.017,High Outflow,Declining,53,Medium
+MH_NSD,2024-11,-0.0186,High Outflow,Declining,44,Medium
+MH_NSD,2024-12,-0.0231,High Outflow,Declining,44,Medium
+MH_PNE,2024-01,0.0097,Moderate Inflow,Stable Urban,31,Low
+MH_PNE,2024-02,0.0158,High Inflow,Declining,30,Low
+MH_PNE,2024-03,0.007,Moderate Inflow,Declining,27,Low
+MH_PNE,2024-04,0.0252,High Inflow,Declining,30,Low
+MH_PNE,2024-05,0.0055,Moderate Inflow,Declining,24,Low
+MH_PNE,2024-06,0.0256,High Inflow,Declining,31,Low
+MH_PNE,2024-07,0.0013,Moderate Inflow,Declining,33,Low
+MH_PNE,2024-08,0.0198,High Inflow,Declining,30,Low
+MH_PNE,2024-09,0.017,High Inflow,Rural Stable,27,Low
+MH_PNE,2024-10,0.021,High Inflow,Stable Urban,29,Low
+MH_PNE,2024-11,0.0142,Moderate Inflow,Declining,30,Low
+MH_PNE,2024-12,0.0049,Moderate Inflow,Declining,30,Low
+RJ_JDH,2024-01,-0.0153,High Outflow,Stable Urban,46,Medium
+RJ_JDH,2024-02,-0.0188,High Outflow,Rural Stable,50,Medium
+RJ_JDH,2024-03,-0.0095,Moderate Outflow,Declining,43,Medium
+RJ_JDH,2024-04,-0.0163,High Outflow,Declining,47,Medium
+RJ_JDH,2024-05,-0.0235,High Outflow,Declining,52,Medium
+RJ_JDH,2024-06,-0.0255,High Outflow,Declining,44,Medium
+RJ_JDH,2024-07,-0.0152,High Outflow,Declining,51,Medium
+RJ_JDH,2024-08,-0.0238,High Outflow,Declining,45,Medium
+RJ_JDH,2024-09,-0.02,High Outflow,Declining,45,Medium
+RJ_JDH,2024-10,-0.0176,High Outflow,Rural Stable,51,Medium
+RJ_JDH,2024-11,-0.0235,High Outflow,Declining,50,Medium
+RJ_JDH,2024-12,-0.0234,High Outflow,Declining,53,Medium
+RJ_JPR,2024-01,0.0164,High Inflow,Stable Urban,32,Low
+RJ_JPR,2024-02,0.011,Moderate Inflow,Declining,33,Low
+RJ_JPR,2024-03,0.0032,Moderate Inflow,Declining,26,Low
+RJ_JPR,2024-04,0.016,High Inflow,Declining,25,Low
+RJ_JPR,2024-05,-0.0002,Moderate Outflow,Declining,26,Low
+RJ_JPR,2024-06,0.0016,Moderate Inflow,Rural Stable,24,Low
+RJ_JPR,2024-07,0.0161,High Inflow,Declining,29,Low
+RJ_JPR,2024-08,0.0178,High Inflow,Stable Urban,24,Low
+RJ_JPR,2024-09,0.0189,High Inflow,Stable Urban,31,Low
+RJ_JPR,2024-10,0.0182,High Inflow,Declining,31,Low
+RJ_JPR,2024-11,0.0077,Moderate Inflow,Declining,33,Low
+RJ_JPR,2024-12,0.0113,Moderate Inflow,Stable Urban,29,Low
+RJ_UDR,2024-01,0.0122,Moderate Inflow,Stable Urban,43,Medium
+RJ_UDR,2024-02,0.0091,Moderate Inflow,Stable Urban,39,Low
+RJ_UDR,2024-03,0.0061,Moderate Inflow,Declining,34,Low
+RJ_UDR,2024-04,0.009,Moderate Inflow,Declining,35,Low
+RJ_UDR,2024-05,0.0076,Moderate Inflow,Stable Urban,41,Medium
+RJ_UDR,2024-06,-0.0069,Moderate Outflow,Declining,40,Medium
+RJ_UDR,2024-07,-0.0084,Moderate Outflow,Declining,43,Medium
+RJ_UDR,2024-08,0.0013,Moderate Inflow,Declining,34,Low
+RJ_UDR,2024-09,0.0093,Moderate Inflow,Declining,41,Medium
+RJ_UDR,2024-10,0.0105,Moderate Inflow,Rural Stable,34,Low
+RJ_UDR,2024-11,0.0193,High Inflow,Declining,37,Low
+RJ_UDR,2024-12,0.0205,High Inflow,Stable Urban,38,Low
+TN_CBE,2024-01,-0.0011,Moderate Outflow,Stable Urban,34,Low
+TN_CBE,2024-02,0.0041,Moderate Inflow,Declining,40,Medium
+TN_CBE,2024-03,0.0017,Moderate Inflow,Declining,36,Low
+TN_CBE,2024-04,0.007,Moderate Inflow,Declining,35,Low
+TN_CBE,2024-05,0.0028,Moderate Inflow,Rural Stable,40,Medium
+TN_CBE,2024-06,0.0013,Moderate Inflow,Declining,42,Medium
+TN_CBE,2024-07,0.0161,High Inflow,Declining,39,Low
+TN_CBE,2024-08,0.001,Moderate Inflow,Declining,42,Medium
+TN_CBE,2024-09,0.0017,Moderate Inflow,Stable Urban,42,Medium
+TN_CBE,2024-10,-0.0038,Moderate Outflow,Declining,38,Low
+TN_CBE,2024-11,-0.0037,Moderate Outflow,Declining,43,Medium
+TN_CBE,2024-12,-0.0016,Moderate Outflow,Stable Urban,43,Medium
+TN_CHN,2024-01,0.0036,Moderate Inflow,Stable Urban,29,Low
+TN_CHN,2024-02,0.0141,Moderate Inflow,Declining,26,Low
+TN_CHN,2024-03,0.0117,Moderate Inflow,Declining,29,Low
+TN_CHN,2024-04,0.0168,High Inflow,Declining,24,Low
+TN_CHN,2024-05,0.0249,High Inflow,Declining,26,Low
+TN_CHN,2024-06,0.0028,Moderate Inflow,Declining,26,Low
+TN_CHN,2024-07,0.0073,Moderate Inflow,Stable Urban,28,Low
+TN_CHN,2024-08,0.008,Moderate Inflow,Stable Urban,30,Low
+TN_CHN,2024-09,-0.0024,Moderate Outflow,Declining,30,Low
+TN_CHN,2024-10,0.0125,Moderate Inflow,Declining,30,Low
+TN_CHN,2024-11,0.0053,Moderate Inflow,Declining,25,Low
+TN_CHN,2024-12,0.0125,Moderate Inflow,Declining,31,Low
+TN_MDR,2024-01,-0.0129,Moderate Outflow,Stable Urban,46,Medium
+TN_MDR,2024-02,-0.0201,High Outflow,Declining,51,Medium
+TN_MDR,2024-03,-0.011,Moderate Outflow,Declining,51,Medium
+TN_MDR,2024-04,-0.0212,High Outflow,Declining,48,Medium
+TN_MDR,2024-05,-0.0238,High Outflow,Stable Urban,45,Medium
+TN_MDR,2024-06,-0.0213,High Outflow,Rural Stable,48,Medium
+TN_MDR,2024-07,-0.0198,High Outflow,Declining,53,Medium
+TN_MDR,2024-08,-0.0182,High Outflow,Declining,51,Medium
+TN_MDR,2024-09,-0.017,High Outflow,Declining,47,Medium
+TN_MDR,2024-10,-0.0174,High Outflow,Declining,52,Medium
+TN_MDR,2024-11,-0.0162,High Outflow,Declining,50,Medium
+TN_MDR,2024-12,-0.0172,High Outflow,Declining,45,Medium
+UP_KNP,2024-01,0.0061,Moderate Inflow,Stable Urban,40,Medium
+UP_KNP,2024-02,-0.0033,Moderate Outflow,Declining,38,Low
+UP_KNP,2024-03,-0.0039,Moderate Outflow,Declining,36,Low
+UP_KNP,2024-04,0.0011,Moderate Inflow,Declining,34,Low
+UP_KNP,2024-05,0.0075,Moderate Inflow,Declining,34,Low
+UP_KNP,2024-06,0.0112,Moderate Inflow,Stable Urban,43,Medium
+UP_KNP,2024-07,-0.0011,Moderate Outflow,Declining,34,Low
+UP_KNP,2024-08,0.0,Moderate Inflow,Stable Urban,38,Low
+UP_KNP,2024-09,-0.0036,Moderate Outflow,Declining,38,Low
+UP_KNP,2024-10,0.0136,Moderate Inflow,Declining,37,Low
+UP_KNP,2024-11,-0.0018,Moderate Outflow,Declining,43,Medium
+UP_KNP,2024-12,0.0072,Moderate Inflow,Declining,36,Low
+UP_LKO,2024-01,0.0113,Moderate Inflow,Stable Urban,28,Low
+UP_LKO,2024-02,0.0139,Moderate Inflow,Declining,33,Low
+UP_LKO,2024-03,0.0063,Moderate Inflow,Declining,29,Low
+UP_LKO,2024-04,0.0113,Moderate Inflow,Declining,27,Low
+UP_LKO,2024-05,0.0025,Moderate Inflow,Declining,29,Low
+UP_LKO,2024-06,0.011,Moderate Inflow,Declining,30,Low
+UP_LKO,2024-07,0.0237,High Inflow,Declining,33,Low
+UP_LKO,2024-08,0.0025,Moderate Inflow,Declining,32,Low
+UP_LKO,2024-09,0.0178,High Inflow,Declining,27,Low
+UP_LKO,2024-10,0.0031,Moderate Inflow,Declining,31,Low
+UP_LKO,2024-11,0.009,Moderate Inflow,Declining,24,Low
+UP_LKO,2024-12,0.0098,Moderate Inflow,Stable Urban,29,Low
+UP_VNS,2024-01,-0.0106,Moderate Outflow,Stable Urban,50,Medium
+UP_VNS,2024-02,-0.0229,High Outflow,Declining,53,Medium
+UP_VNS,2024-03,-0.0203,High Outflow,Declining,52,Medium
+UP_VNS,2024-04,-0.016,High Outflow,Declining,52,Medium
+UP_VNS,2024-05,-0.0186,High Outflow,Stable Urban,47,Medium
+UP_VNS,2024-06,-0.0204,High Outflow,Declining,49,Medium
+UP_VNS,2024-07,-0.023,High Outflow,Declining,49,Medium
+UP_VNS,2024-08,-0.0161,High Outflow,Declining,51,Medium
+UP_VNS,2024-09,-0.0231,High Outflow,Declining,48,Medium
+UP_VNS,2024-10,-0.0222,High Outflow,Declining,52,Medium
+UP_VNS,2024-11,-0.0221,High Outflow,Declining,54,Medium
+UP_VNS,2024-12,-0.0194,High Outflow,Declining,50,Medium
+WB_KOL,2024-01,0.0116,Moderate Inflow,Stable Urban,27,Low
+WB_KOL,2024-02,0.0169,High Inflow,Declining,27,Low
+WB_KOL,2024-03,0.0216,High Inflow,Stable Urban,27,Low
+WB_KOL,2024-04,0.0109,Moderate Inflow,Declining,29,Low
+WB_KOL,2024-05,0.0238,High Inflow,Declining,33,Low
+WB_KOL,2024-06,0.0177,High Inflow,Declining,32,Low
+WB_KOL,2024-07,0.013,Moderate Inflow,Declining,31,Low
+WB_KOL,2024-08,0.0131,Moderate Inflow,Stable Urban,31,Low
+WB_KOL,2024-09,0.0098,Moderate Inflow,Declining,33,Low
+WB_KOL,2024-10,0.0114,Moderate Inflow,Rural Stable,30,Low
+WB_KOL,2024-11,0.0064,Moderate Inflow,Rural Stable,27,Low
+WB_KOL,2024-12,0.0097,Moderate Inflow,Stable Urban,32,Low
